@@ -1,0 +1,17 @@
+{
+  "name": "yesoreyeram-grafana",
+  "version": "0.1.0",
+  "author": "yesoreyeram",
+  "summary": "Grafana installation module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/yesoreyeram/puppet-grafana.git",
+  "project_page": "https://github.com/yesoreyeram/puppet-grafana",
+  "issues_url": "https://github.com/yesoreyeram/puppet-grafana/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
+
